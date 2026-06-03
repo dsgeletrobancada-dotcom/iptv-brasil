@@ -259,3 +259,8 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="Brasil: variedades",Rede SPTV | SP Brasil
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
+# =========================
+# CLIPES
+# =========================
+#EXTINF: -1 tvg-logo="http://i.imgur.com/QGUGlqk.png" group-title="CANAIS MUSICA", RETRO MUSIC HD 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
