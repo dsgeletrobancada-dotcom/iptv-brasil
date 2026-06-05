@@ -196,8 +196,7 @@ https://acesso.ecast.site:3500/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Variedades",Maná Hindi | português e hindi
 http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
-#EXTINF:-1 tvg-id="CafeViola.br" tvg-logo="https://i.imgur.com/LXEJ3b2.png" group-title="Variedades",TV Café Viola | Goiânia
-https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Variedades",Clubbing TV | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYKZr34.png" group-title="Brasil: variedades",TV Gramado | RS Brasil
@@ -265,5 +264,7 @@ https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 # =========================
 # CLIPES
 # =========================
-#EXTINF: -1 tvg-logo="http://i.imgur.com/QGUGlqk.png" group-title="CANAIS MUSICA", RETRO MUSIC HD 
+#EXTINF: -1 tvg-logo="http://i.imgur.com/QGUGlqk.png" group-title="Clipes", RETRO MUSIC HD 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="CafeViola.br" tvg-logo="https://i.imgur.com/LXEJ3b2.png" group-title="Clipes",TV Café Viola | Goiânia
+https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
