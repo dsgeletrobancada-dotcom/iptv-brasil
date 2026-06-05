@@ -205,8 +205,7 @@ https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Brasil: variedades",TV Marchetti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Brasil: variedades",TV MAX Rio | Brasil
-https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/5SsUIpn.png" group-title="Brasil: variedades",TV Metrópole | Caucaia CE Brasil
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Brasil: variedades",TV Nova Nordeste | Grande Recife PE Brasil
@@ -266,5 +265,9 @@ https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 # =========================
 #EXTINF: -1 tvg-logo="http://i.imgur.com/QGUGlqk.png" group-title="Clipes", RETRO MUSIC HD 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CafeViola.br" tvg-logo="https://i.imgur.com/LXEJ3b2.png" group-title="Clipes",TV Café Viola | Goiânia
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Clipes",TV MAX Rio | Brasil
+https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
