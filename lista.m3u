@@ -93,10 +93,10 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 
-#EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="Noticias",TV ALMG | MG Brasil
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="Notícias",TV ALMG | MG Brasil
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Noticias",TV Câmara | Brasil
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Notícias",TV Câmara | Brasil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
