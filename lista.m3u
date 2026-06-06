@@ -46,19 +46,19 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-id="webtvcine.br" tvg-name="Web TV Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/0d8ea456a45f1f4837ffb24db7646f8f.webp" tvg-country="BR" group-title="Filmes",Web TV Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="multicanais.br" tvg-name="Multi Canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/38cca32010062541d346871765a20c4a.webp" tvg-country="BR" group-title="Filmes",Multi Canais
+#EXTINF:-1 tvg-id="multicanais.br" tvg-name="Multi Canais" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Multi_TV.png" tvg-country="BR" group-title="Filmes",Multi Canais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel1.br" tvg-name="CHANNEL 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/ac834a189809106bcd9593bfa5269e47.webp" tvg-country="BR" tvg-language="pt" group-title="Filmes",CHANNEL 1
+#EXTINF:-1 tvg-id="channel1.br" tvg-name="CHANNEL 1" tvg-logo="https://en.wikipedia.org/wiki/File:Channel_1_Logo_Bangladesh.png" tvg-country="BR" tvg-language="pt" group-title="Filmes",CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvnovajuarez.br" tvg-name="Canal 2 - TV Nova Juarez" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/6040bb525a1603dc1ff55b66f733864e.webp" tvg-country="BR" tvg-language="pt" group-title="Filmes",Canal 2 - TV Nova Juarez
+#EXTINF:-1 tvg-id="tvnovajuarez.br" tvg-name="Canal 2 - TV Nova Juarez" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Canal_2_%28Nicaragua%29_logo.png" tvg-country="BR" tvg-language="pt" group-title="Filmes",Canal 2 - TV Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 
-#EXTINF:-1 tvg-id="megacine.es" tvg-name="Mega Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/5b157c3c4e4df514dab25bcb6e5d53cc.webp" tvg-country="ES" tvg-language="es" group-title="Filmes",Mega Cine
+#EXTINF:-1 tvg-id="megacine.es" tvg-name="Mega Cine" tvg-logo="https://www.pngegg.com/pt/png-fjuwd" tvg-country="ES" tvg-language="es" group-title="Filmes",Mega Cine
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="Adrenalina Pura TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/8b3db993ee7151d22256f51b36ecdb43.webp" tvg-country="BR" tvg-language="pt" group-title="Filmes",Adrenalina Pura TV
+#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="Adrenalina Pura TV" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Winx_Club_Logo.png" tvg-country="BR" tvg-language="pt" group-title="Filmes",Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 # =====================================
