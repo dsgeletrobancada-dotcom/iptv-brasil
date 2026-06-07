@@ -46,19 +46,19 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 #EXTINF:-1 tvg-id="webtvcine.br" tvg-name="Web TV Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/0d8ea456a45f1f4837ffb24db7646f8f.webp" tvg-country="BR" group-title="Filmes",Web TV Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="multicanais.br" tvg-name="Multi Canais" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Multi_TV.png" tvg-country="BR" group-title="Filmes",Multi Canais
+#EXTINF:-1 tvg-id="multicanais.br" tvg-name="Multi Canais" tvg-logo="" tvg-country="BR" group-title="Filmes",Multi Canais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel1.br" tvg-name="CHANNEL 1" tvg-logo="https://en.wikipedia.org/wiki/File:Channel_1_Logo_Bangladesh.png" tvg-country="BR" tvg-language="pt" group-title="Filmes",CHANNEL 1
+#EXTINF:-1 tvg-id="channel1.br" tvg-name="CHANNEL 1"" tvg-country="BR" tvg-language="pt" group-title="Filmes",CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvnovajuarez.br" tvg-name="Canal 2 - TV Nova Juarez" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Canal_2_%28Nicaragua%29_logo.png" tvg-country="BR" tvg-language="pt" group-title="Filmes",Canal 2 - TV Nova Juarez
+#EXTINF:-1 tvg-id="tvnovajuarez.br" tvg-name="Canal 2 - TV Nova Juarez"" tvg-country="BR" tvg-language="pt" group-title="Filmes",Canal 2 - TV Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 
-#EXTINF:-1 tvg-id="megacine.es" tvg-name="Mega Cine" tvg-logo="https://www.pngegg.com/pt/png-fjuwd" tvg-country="ES" tvg-language="es" group-title="Filmes",Mega Cine
+#EXTINF:-1 tvg-id="megacine.es" tvg-name="Mega Cine" tvg-logo="" tvg-country="ES" tvg-language="es" group-title="Filmes",Mega Cine
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="Adrenalina Pura TV" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Winx_Club_Logo.png" tvg-country="BR" tvg-language="pt" group-title="Filmes",Adrenalina Pura TV
+#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="Adrenalina Pura TV" tvg-logo="" tvg-country="BR" tvg-language="pt" group-title="Filmes",Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 # =====================================
@@ -229,7 +229,12 @@ https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Brasil: variedades",TV Marchetti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
-
+#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Variedades",TV MAX Rio | Brasil
+https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="Variedades",Top Mix TV
+https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Variedades",TV A Folha | Palmas PR Brasil
+https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/5SsUIpn.png" group-title="Brasil: variedades",TV Metrópole | Caucaia CE Brasil
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Brasil: variedades",TV Nova Nordeste | Grande Recife PE Brasil
@@ -290,15 +295,6 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CafeViola.br" tvg-logo="https://i.imgur.com/LXEJ3b2.png" group-title="Clipes",TV Café Viola | Goiânia
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Clipes",TV MAX Rio | Brasil
-https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="Clipes",Top Mix TV
-https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Clipes",TV A Folha | Palmas PR Brasil
-https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
 
 #EXTINF:-1 tvg-id="retroplustv.pe" tvg-name="Retro Plus TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/466deabbd42d619f75a9134701c3e39b.webp" tvg-country="PE" tvg-language="es" group-title="Clipes",Retro Plus TV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
