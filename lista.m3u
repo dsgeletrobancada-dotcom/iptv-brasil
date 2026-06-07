@@ -287,6 +287,8 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="rbtv.br" tvg-name="Rede Brasil de Televisão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/0049b33f9d70ac2fbea58163c3053423.webp" tvg-country="BR" tvg-language="pt" group-title="Variedades",Rede Brasil de Televisão (RBTV)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="tvcariocainternacional.br" tvg-name="TV Carioca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/ae3270712e80a6ee4cd2dd542fcc48c6.webp" tvg-country="BR" tvg-language="pt" group-title="Variedades",TV Carioca Internacional
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 # =========================
 # CLIPES
 # =========================
@@ -298,6 +300,3 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retroplustv.pe" tvg-name="Retro Plus TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/466deabbd42d619f75a9134701c3e39b.webp" tvg-country="PE" tvg-language="es" group-title="Clipes",Retro Plus TV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvcariocainternacional.br" tvg-name="TV Carioca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Poster/webp/ae3270712e80a6ee4cd2dd542fcc48c6.webp" tvg-country="BR" tvg-language="pt" group-title="Clipes",TV Carioca Internacional
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
